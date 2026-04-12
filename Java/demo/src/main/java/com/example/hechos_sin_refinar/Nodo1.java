@@ -19,7 +19,8 @@ class Nodo1 {
     }
 
     public static void main(String[] args) {
-        int tamanhoprueba = 2000;
+        //Espero que este bien y no sea realmente un dolor entender este código
+        //int tamanhoprueba = 2000;
         int tamanhoprueba2 = 1000;
         /*
         Nodo firstNode = new Nodo(3);
